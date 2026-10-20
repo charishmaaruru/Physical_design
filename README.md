@@ -50,9 +50,7 @@ The project report documents the generation of a GDSII layout for the SPI design
 
 ## Repository Contents
 - `README.md` – Project overview and documentation
-- `rtl/` – Verilog source files, if available
-- `reports/` – Synthesis, timing, and verification reports, if available
-- `screenshots/` – Tool and layout screenshots, if available
+- `screenshots/` – Tool and layout screenshots
 - `docs/` – Project report
 
 ## Author
